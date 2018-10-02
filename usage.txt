@@ -1,0 +1,3 @@
+find $HOME -maxdepth 1  | ls_color
+
+mpc search artist Laleh | ls_color
